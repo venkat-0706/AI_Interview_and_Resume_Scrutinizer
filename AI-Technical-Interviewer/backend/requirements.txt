@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+motor
+pymongo
+celery
+redis
+opencv-python
+tensorflow
+openai

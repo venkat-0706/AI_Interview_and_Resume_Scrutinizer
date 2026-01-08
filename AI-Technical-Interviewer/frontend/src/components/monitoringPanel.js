@@ -1,0 +1,1 @@
+// Monitoring panel component

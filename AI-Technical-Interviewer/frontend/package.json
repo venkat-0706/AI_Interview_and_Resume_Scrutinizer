@@ -1,0 +1,10 @@
+{
+  "name": "ai-technical-interviewer-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for AI Technical Interviewer",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'Start script'"
+  },
+  "dependencies": {}
+}
